@@ -9,6 +9,7 @@ int main()
 
     cout<<"Leudy Randy Nolasco-100576672\n\n";
     cout<<"RECUERDE QUE EL ARCHIVO SE DEBE ENCONTRAR\nEn la misma carpeta que el programa. "<<endl;
+    cout<<"Para llamar a un archivo recuerde poner su extension\n\n ";
     char fichero[40];
     char linea[100];
     int i = 1;
