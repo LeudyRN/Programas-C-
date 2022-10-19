@@ -1,2 +1,2 @@
-# Programas-C-
-Eso mismo tocayo.
+# Programas-C++
+Programas en c++
